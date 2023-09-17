@@ -19,5 +19,3 @@ while run:
     if event.type == pygame.QUIT:
       sys.exit()
 pygame.quit()
-
-https://dafluffypotato.com/assets/pg_tutorial
